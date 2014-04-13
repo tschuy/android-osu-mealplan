@@ -6,7 +6,7 @@ Access Oregon State mealplan balance through a convenient Android app. Future fe
    - Cards UI for mealplan balance, Orange Rewards
    - Log-in using Android-styled user/pass box
        - Download login page from http://myuhds.oregonstate.edu
-       - Extract *lt* value (see <div class="form-actions">)
+       - Extract *lt* value (see &lt;div class=&quot;form-actions&quot;&gt;)
        - Send HTTP Post, receive cookie in response and store
        - Download and parse information page
    - Notifications:
