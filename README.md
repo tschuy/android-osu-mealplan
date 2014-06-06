@@ -1,7 +1,12 @@
 OSU Mealplan Tracker
 ====================
 
-Access Oregon State mealplan balance through a convenient Android app. Future features:
+Access Oregon State mealplan balance through a convenient Android app.
+
+Current features:
+   - NOTHING
+
+Future features:
 
    - Cards UI for mealplan balance, Orange Rewards
    - Log-in using Android-styled user/pass box
